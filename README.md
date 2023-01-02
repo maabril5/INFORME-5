@@ -178,7 +178,13 @@ La fuerza inducida se opondrá al movimiento que es en dirección hacia abajo.
 
 ![image](https://user-images.githubusercontent.com/117920423/210269636-6fc35e4b-5c56-4a77-8019-88e8624d1af1.png)
 
+4. CONCLUSIONES.
 
+
+5. VIDEO.
+
+
+6. BIBLIOGRAFÍA.
 
 
 
