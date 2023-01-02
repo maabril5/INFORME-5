@@ -63,6 +63,9 @@ SECCIÓN 9–3 Método de la corriente en lazos
 
 ![image](https://user-images.githubusercontent.com/117920423/210265718-6b59282a-4cc2-4297-bcc2-f200ab6aebf0.png)
 
+![image](https://user-images.githubusercontent.com/117920423/210265792-20f1ed0f-c324-4c30-824e-9d704bacfaf3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265832-a0ef6a18-8075-4894-adf5-9ce2f0f3940b.png)
 
 
 
