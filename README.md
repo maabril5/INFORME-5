@@ -85,6 +85,39 @@ SECCIÓN 9–3 Método de la corriente en lazos
 
 SECCIÓN 9–4 Método del voltaje en nodos
 
+![image](https://user-images.githubusercontent.com/117920423/210267237-d68557f5-360b-471e-a7a7-bf460c4070ea.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267287-adc2f16b-0c16-4f03-80f6-a17980667d65.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267323-9f144da6-df3e-4bf3-a459-5be9a87c3fd9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267351-de9c549a-bbe8-4c76-b50f-217f2a7b8293.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267389-dddd6025-4c8c-4826-ae92-5e6b1b06e723.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267522-e8a93a32-b486-4a66-979b-8a6a23967d68.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267710-63b7accc-5a1a-4a4a-a9f7-a742020d7ba8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267735-73b197d3-40b3-453e-9ec4-6cc5ef357e26.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267779-d9825723-6e2c-4dbd-8052-98a6900a96db.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267844-2411c762-3c2b-4133-b9f2-fdfc5338a094.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267912-6c779f6f-c36c-46d7-9859-a75aad854ca1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210267927-c0e012d3-aee0-485d-86db-ef6b7580ffce.png)
+
+
+CAPÍTULO 10.
+
+
+
+
+
+
+
 
 
 
