@@ -37,6 +37,19 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 SECCIÓN 9–2 Método de la corriente en ramas
 
+![image](https://user-images.githubusercontent.com/117920423/210265176-c5448529-9d42-4004-bdf4-b8516308bff7.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265199-4bd786ce-c069-47db-9b27-9486b728f120.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265251-327cc52a-f883-42c5-894b-fe85ef54c9c6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265320-71fc4119-f46b-4d28-8d96-42395545fdb6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265342-752ba4b8-4fdb-461f-8f01-6ed526414281.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265375-c3b2e098-167e-4805-96e0-17141c2c18f1.png)
+
+SECCIÓN 9–3 Método de la corriente en lazos
 
 
 
