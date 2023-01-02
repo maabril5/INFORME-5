@@ -51,6 +51,17 @@ SECCIÓN 9–2 Método de la corriente en ramas
 
 SECCIÓN 9–3 Método de la corriente en lazos
 
+![image](https://user-images.githubusercontent.com/117920423/210265493-57035fbf-6372-48ad-8f83-1b9f4592febb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265545-cd6ccd60-c34b-4b22-bd1e-b47637bda762.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265596-90dd75c1-9d29-412e-b073-a6d636bb277a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265647-372c772e-e970-43b3-bd8b-d540f4cf6202.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265690-78478418-a3b9-4e2f-ab67-439067d93f82.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210265718-6b59282a-4cc2-4297-bcc2-f200ab6aebf0.png)
 
 
 
