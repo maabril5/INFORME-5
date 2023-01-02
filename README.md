@@ -116,11 +116,11 @@ SECCIÓN 10–1 El campo magnético
 
 ![image](https://user-images.githubusercontent.com/117920423/210268064-39f4bf83-578e-4a94-a179-5a14595afe2b.png)
 
-![image](https://user-images.githubusercontent.com/117920423/210268126-ff646ad8-a2a4-4440-9c81-a041e81fb02f.png)
+![image](https://user-images.githubusercontent.com/117920423/210268333-0f954fba-f1f2-4033-b16f-2b80e920a1b2.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/210268140-cf496a85-4d2b-4a15-95b7-f91e6ae4b859.png)
 
-![image](https://user-images.githubusercontent.com/117920423/210268160-5c0694e0-2f50-431e-994f-4c7f81639ce2.png)
+![image](https://user-images.githubusercontent.com/117920423/210268353-c7df34a9-1b0e-4d63-b5cf-c90a7122cde0.png)
 
 
 
