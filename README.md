@@ -122,9 +122,61 @@ SECCIÓN 10–1 El campo magnético
 
 ![image](https://user-images.githubusercontent.com/117920423/210268353-c7df34a9-1b0e-4d63-b5cf-c90a7122cde0.png)
 
+SECCIÓN 10–2 Electromagnetismo
 
+![image](https://user-images.githubusercontent.com/117920423/210268403-895da961-e78b-4256-9ef8-aa356552f0ad.png)
 
+![image](https://user-images.githubusercontent.com/117920423/210268539-d53babdf-07f0-4e29-bd95-d9db2bcf912d.png)
 
+La aguja de la brújula gira 180°.
+
+![image](https://user-images.githubusercontent.com/117920423/210268591-504a3fee-3c70-49cc-a03e-386b2e36e77e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210268628-86f0954f-f995-4f83-90b6-f8738f0dc45a.png)
+
+SECCIÓN 10–3 Dispositivos electromagnéticos
+
+![image](https://user-images.githubusercontent.com/117920423/210268687-aa0c6be1-5982-438f-980e-60634ad6bba5.png)
+
+El embolo va a retraerse mientras que el selenoide se activa.
+
+![image](https://user-images.githubusercontent.com/117920423/210268802-8e50f9f6-e25e-47d9-96fb-1b2a342cfcdb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210268844-e84ef756-9d40-4ef7-99a5-fcb5bccaa802.png)
+
+El relé que conecta 9V al pin 2 produciendo así que se encienda la lámpara 2 y que se apague la 1.
+
+SECCIÓN 10–4 Histéresis magnética
+
+![image](https://user-images.githubusercontent.com/117920423/210269020-6ceec738-09eb-4fc5-8453-5a9c915ccb85.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210269089-cada831b-ac25-4ccc-be52-affb950e310b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210269118-c315c3bb-03eb-4eb4-bb15-22871cfd4f17.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210269216-ee9331f7-e776-43d2-9a60-64effb4440db.png)
+
+SECCIÓN 10–5 Inducción electromagnética
+
+![image](https://user-images.githubusercontent.com/117920423/210269278-a2ef1e3c-4156-422c-b902-a8ac3c223b34.png)
+
+El voltaje inducido se duplicará cuando la tasa de cambio del flujo magnético se duplique.
+
+![image](https://user-images.githubusercontent.com/117920423/210269373-8bde3084-308f-403b-b0f9-1d48825c61c1.png)
+
+Debido a que no existe un cambio en el campo mágnético, no habrá voltaje.
+
+SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
+
+![image](https://user-images.githubusercontent.com/117920423/210269455-db1f0fba-c779-40c4-83da-f29fbdd7f313.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210269494-c7e60d32-d999-4017-a87d-2ab130a406d4.png)
+
+La fuerza inducida se opondrá al movimiento que es en dirección hacia abajo. 
+
+![image](https://user-images.githubusercontent.com/117920423/210269582-9663cd1c-42b8-4ef8-8b01-86659b2b2b37.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210269636-6fc35e4b-5c56-4a77-8019-88e8624d1af1.png)
 
 
 
