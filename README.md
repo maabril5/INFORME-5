@@ -6,6 +6,16 @@
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/210301241-793e969c-38b2-4c2e-b6bd-e53779200118.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210301279-f8b3cef6-8598-422e-b9ee-f82064927fdd.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210301315-458b05ea-d7cc-4b4a-81ff-18061e92fb70.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210301342-faab2004-8c17-44b4-90e1-1063d917e2a1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210301369-42fbcf46-19c5-42f4-8195-85bbaae59a9c.png)
+
 
 3. EJERCICIOS DE APRENDIZAJE.
 
