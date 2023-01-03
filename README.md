@@ -200,6 +200,11 @@ La fuerza inducida se opondrá al movimiento que es en dirección hacia abajo.
 
 4. CONCLUSIONES.
 
+- Tras la aplicación de estos métodos, en su mayoría conocidos se pudo analizar y entender en que se basa cada uno y que proceso conyeva.
+
+- El magnetismo y electromagnetismo vimos que es un tema bastante extenso en el cuál observamos distintas definiciones que son de utilidad para el análisis de circuitos.
+
+- En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer.
 
 5. VIDEO.
 
