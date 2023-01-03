@@ -2,7 +2,17 @@
 
 1. OBJETIVOS:
 
+- Comprender los conceptos referentes a magnetismo y electromagnetismo 
+
+- Analizar los distintos métodos en el cuál tendremos la resolución de un sistema de ecuaciones.
+
+- Estudiar los componentes electromagnéticos basándonos en la ley de Faraday para su aplicación
+
+- Mediante un video establecer el tema expuesto y adquirir un mejor entendimiento.
+
 1.1 OBJETIVO ESPECÍFICO:
+
+Haber entendido los conceptos presentados en el capíto 9 y 10 referente a los métodos para el cálculo de corriente y voltaje, implementando en el circuito nuevas fórmulas y armando sistemas de ecuaciones de resolución, entendiendo el nuevo tema magnetismo y sus aplicaciones.
 
 2. MARCO TEÓRICO
 
