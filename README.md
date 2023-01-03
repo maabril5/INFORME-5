@@ -196,19 +196,19 @@ La fuerza inducida se opondrá al movimiento que es en dirección hacia abajo.
 
 6. BIBLIOGRAFÍA.
 
+- Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 
+- ¿Cómo se puede saber la intensidad del campo magnético del imán? (2021, julio 29). IMA. https://imamagnets.com/blog/como-saber-la-intensidad-del-campo-magnetico-del-iman/
 
+- Kraus, J. (2000). Electromagnetismo: Con aplicaciones. McGraw-Hill Companies.
 
+- Leskow, E. C. (s/f). Campo Magnético - Concepto, origen, tipos y características. Concepto. Recuperado el 3 de enero de 2023, de https://concepto.de/campo-magnetico/
 
+- ¿QUÉ ES LA INDUCCIÓN ELECTROMAGNÉTICA? (2020, septiembre 22). Totalenergies.es; TotalEnergies. https://www.totalenergies.es/es/pymes/blog/induccion-electromagnetica
 
+- ¿Qué es la ley de Faraday? (s/f). Khan Academy. Recuperado el 3 de enero de 2023, de https://es.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnetic-flux-faradays-law/a/what-is-faradays-law
 
-
-
-
-
-
-
-
+- Resumen del análisis de circuitos. (s/f). Khan Academy. Recuperado el 3 de enero de 2023, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-circuit-analysis-overview
 
 
 
